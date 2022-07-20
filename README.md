@@ -1,1 +1,2 @@
-# tictactoe
+# Roadmap to Future Improvements
+For my tic tac toe game, I would like to implement an audio file that plays when a winner is selected. We have not worked much with audio files, but I don't think it would be terribly difficult to implement under the 'winner' section of the code. I would also like to add a 'disco' effect when a player wins to help signify when the game is over. Lastly, I would like to remove all functionality from the board after a winner is declared and add a 'Play again?' button at the bottom of the board, resetting the state. 
